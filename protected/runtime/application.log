@@ -1,0 +1,346 @@
+2015/03/22 04:40:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/index.php?r=site/index
+---
+2015/03/22 04:40:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/index.php
+---
+2015/03/22 04:40:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/index.php
+---
+2015/03/22 04:40:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/index.php
+---
+2015/03/22 04:40:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/index.php
+---
+2015/03/22 04:40:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/index.php
+---
+2015/03/22 05:56:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "�޼� & ������������_files/api".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('???????? & ????...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/%EF%BF%BD%DE%BC%EF%BF%BD%20&%20%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD_files/api
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php
+---
+2015/03/22 05:56:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "�޼� & ������������_files/getscript".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('???????? & ????...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/%EF%BF%BD%DE%BC%EF%BF%BD%20&%20%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD_files/getscript
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/eic.css
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/photo_mod.css
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/discuz.css
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/j.js
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/photoswipe.css
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/bmap.css
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/lhgdialog.js
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/mobile_eic_01.js
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/jweixin-1.0.0.js
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/klass.min.js
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/aimoload.js
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/code.photoswipe.jquery-3.0.4.min.js
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/api
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/getscript
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/m_180_180.jpg
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/face_cover.png
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:02:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "鏃犲繉 & 鏁忔晱缁撳璇锋煬_files".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('????????? & ???...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('????????? & ???...')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/??????...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/index.php/marriage/%E9%8F%83%E7%8A%B2%E7%B9%89%20&%20%E9%8F%81%E5%BF%94%E6%99%B1%E7%BC%81%E6%92%B3%EE%9F%B7%E7%92%87%E9%94%8B%E7%85%AC_files/mcbg.png
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:11:32 [error] [php] Use of undefined constant SITE_URL - assumed 'SITE_URL' (F:\zhongkeyunObj\tools\shichen\protected\views\marriage\index.php:12)
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(869): MarriageController->renderFile()
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(782): MarriageController->renderPartial()
+#2 F:\zhongkeyunObj\tools\shichen\protected\controllers\MarriageController.php(14): MarriageController->render()
+#3 F:\zhongkeyunObj\tools\shichen\framework\web\actions\CInlineAction.php(49): MarriageController->actionIndex()
+#4 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(308): CInlineAction->runWithParams()
+#5 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(286): MarriageController->runAction()
+#6 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(265): MarriageController->runActionWithFilters()
+#7 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): MarriageController->run()
+#8 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#9 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#10 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CWebApplication->run()
+REQUEST_URI=/shichen/webroot/index.php/marriage/index
+in F:\zhongkeyunObj\tools\shichen\protected\views\marriage\index.php (12)
+in F:\zhongkeyunObj\tools\shichen\protected\controllers\MarriageController.php (14)
+in F:\zhongkeyunObj\tools\shichen\webroot\index.php (13)
+2015/03/22 06:12:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/getscript".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('js/getscript')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot//js/getscript
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 06:12:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/getscript".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('js/getscript')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot//js/getscript
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php/marriage/index
+---
+2015/03/22 13:45:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('index')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/index
+---
+2015/03/22 14:29:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/
+---
+2015/03/22 14:30:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "无忌 & 敏敏结婚请柬_files/staticimage".' in F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('?????? & ??????...')
+#1 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/shichen/webroot/%E6%97%A0%E5%BF%8C%20&%20%E6%95%8F%E6%95%8F%E7%BB%93%E5%A9%9A%E8%AF%B7%E6%9F%AC_files/staticimage
+HTTP_REFERER=http://my.tools.com/shichen/webroot/index.php
+---
+2015/03/22 14:47:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('img')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('img')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/img/st...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/marriage/img/staticimage
+HTTP_REFERER=http://my.tools.com/shichen/webroot/
+---
+2015/03/22 14:47:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('img')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('img')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/img/st...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/marriage/img/staticimage
+HTTP_REFERER=http://my.tools.com/shichen/webroot/
+---
+2015/03/22 14:47:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "img".' in F:\zhongkeyunObj\tools\shichen\framework\web\CController.php:483
+Stack trace:
+#0 F:\zhongkeyunObj\tools\shichen\framework\web\CController.php(270): CController->missingAction('img')
+#1 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(282): CController->run('img')
+#2 F:\zhongkeyunObj\tools\shichen\framework\web\CWebApplication.php(141): CWebApplication->runController('marriage/img/st...')
+#3 F:\zhongkeyunObj\tools\shichen\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 F:\zhongkeyunObj\tools\shichen\webroot\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/shichen/webroot/marriage/img/staticimage
+HTTP_REFERER=http://my.tools.com/shichen/webroot/
+---
